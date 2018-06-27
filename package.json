@@ -1,0 +1,23 @@
+{
+  "name": "coursera-web-week3",
+  "version": "1.0.0",
+  "description": "Coursera web development course week 3 activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsterPermon/coursera-web-week3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsterPermon/coursera-web-week3/issues"
+  },
+  "homepage": "https://github.com/EsterPermon/coursera-web-week3#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
