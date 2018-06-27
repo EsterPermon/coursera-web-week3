@@ -61,9 +61,8 @@ h3{
 
 .box{
     background-color: #6495ED; 
-    width: 95%;
-    height: 90%;
-    margin-left: 2.5%;
+    height: 35%;
+    float: left;
     margin-bottom: 5%;
     padding: 20px;
 }
@@ -73,4 +72,10 @@ h3{
     text-align: justify;
     color: #000080;
     font-size: 1.1em;
+}
+
+.text-box a{
+    color: #551A8B;
+    text-decoration: underline;
+    font-weight: bold;
 }
