@@ -21,14 +21,15 @@
     width: 100%;
 }
 
-#navbar-head h1, h2, h3{
+#brand, h2, h3{
     color: #000080;
     font-weight: bold;
 }
 
-h1{
-    margin-top: 7px;
+#brand{
+    margin-top: 15px;
     margin-left: 30px;
+    font-size: 1.8em;
 }
 
 h2{
